@@ -1,0 +1,91 @@
+@media (min-width :1025px) and (max-width : 1200px) {
+    /* main-container */
+
+    .main-container .carousal-container {
+        width: 80%;
+    }
+
+    .main-container .carousal-container .vibe {
+        font-family: "Satisfy", cursive;
+        font-size: 40px;
+    }
+
+    .main-container .carousal-container .name {
+        font-size: 60px;
+    }
+
+    /* about container */
+
+    .about-container {
+        height: 95rem !important;
+    }
+
+    .about-container .about-bg-1 {
+        height: 110rem !important;
+    }
+
+    .about-container .about-bg-2 {
+        top: 0%;
+        height: 95rem !important;
+    }
+
+    .about-container .about-album .about-part {
+        width: 100% !important;
+        margin: auto;
+        display: block !important;
+    }
+
+    .about-container .about-album .about-part .singer-img {
+        width: 60% !important;
+        margin: auto !important;
+    }
+
+    .about-container .about-album .about-part .about_content {
+        width: 70% !important;
+        margin: auto !important;
+    }
+
+    .about-container {
+        height: 110rem;
+    }
+
+    .about-container .about-container-img {
+        height: 110rem;
+    }
+
+    /* video section */
+
+    .video-container {
+        height: 55rem;
+    }
+
+    .video-container .video-bg-img {
+        height: 55rem;
+    }
+
+    .footer .footer-content .footer-top .footer-part-1 {
+        width: 90% !important;
+        margin: auto !important;
+    }
+
+    .footer .footer-content .footer-top .footer-part-2 {
+        display: none !important;
+    }
+
+    .footer .footer-content .footerContent .footer-content-1 .info-box .info-icon,
+    .footer .footer-content .footerContent .footer-content-2 .info-box .info-icon {
+        width: 65px;
+        height: 65px;
+        font-size: 27px;
+        color: #fff;
+        border-radius: 50%;
+        line-height: 65px;
+        background: linear-gradient(45deg, #503aca 0%, #ea34ff 100%);
+    }
+
+    /* about page */
+
+    .about-main-container {
+        height: 13rem;
+    }
+}
