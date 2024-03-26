@@ -156,3 +156,9 @@
     }
 
 }
+
+@media (min-width :50px) and (max-width : 321px) {
+    .about-container .about-bg-2{
+        height: 200rem !important;
+    }
+}
