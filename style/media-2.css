@@ -1,4 +1,5 @@
 @media (min-width :769px) and (max-width : 1024px) {
+
     .main-container .carousal-container {
         width: 80%;
     }
@@ -11,9 +12,9 @@
     .main-container .carousal-container .name {
         font-size: 40px;
     }
-    
+/*     
     .about-container {
-        height: 130em;
+        height: 145em;
     }
     
     .about-container .about-bg-1 {
@@ -21,8 +22,8 @@
     }
     
     .about-container .about-bg-2{
-        height: 117rem !important;
-    }
+        height: 130rem !important;
+    } */
 
     .about-container .about-album .about-part {
         display: block;
@@ -125,7 +126,7 @@
 @media (min-width :769px) and (max-width : 991px) {
 
     .about-container {
-        height: 120em;
+        height: 143em;
     }
     
     .about-container .about-bg-1 {
@@ -133,7 +134,7 @@
     }
     
     .about-container .about-bg-2{
-        height: 120rem !important;
+        height: 143rem !important;
     }
 
 }
@@ -141,7 +142,7 @@
 @media (min-width :992px) and (max-width : 1024px) {
 
     .about-container {
-        height: 95em;
+        height: 110em;
     }
     
     .about-container .about-bg-1 {
@@ -149,7 +150,7 @@
     }
     
     .about-container .about-bg-2{
-        height: 85rem !important;
+        height: 98rem !important;
     }
 
 }

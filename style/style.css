@@ -50,7 +50,7 @@
 
 /* about container */
 .about-container {
-    height: 87rem;
+    height: 102rem;
     position: relative;
     background-color: #0c0617;
 }
@@ -68,7 +68,7 @@
 }
 
 .about-container .about-bg-2 {
-    height: 77rem;
+    height: 92rem;
     width: 100%;
     position: absolute;
     top: 10%;
@@ -307,7 +307,7 @@
 }
 
 .footer {
-    height: 50rem;
+    height: 53rem;
     position: relative;
     background-color: #0c0617;
 }
@@ -334,7 +334,6 @@
 
 .footer .footer-top .footer-part-1 {
     background-color: #191039;
-    border: 1px solid white;
 }
 
 .footer .footer-top .footer-form .footer-title .footerTitle {

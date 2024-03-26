@@ -1,5 +1,4 @@
 @media (min-width :320px) and (max-width : 480px) {
-
     /* main container */
 
     .main-container {
@@ -33,7 +32,7 @@
     /* about-container */
 
     .about-container {
-        height: 200rem !important;
+        height: 235rem !important;
     }
 
     .about-container .about-bg-1 {
@@ -42,7 +41,7 @@
     }
     
     .about-container .about-bg-2{
-        height: 180rem !important;
+        height: 210rem !important;
     }
 
     .about-container .about-album {

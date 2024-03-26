@@ -1,4 +1,5 @@
 @media (min-width :481px) and (max-width : 768px) {
+
     .main-container .carousal-container {
         width: 80%;
     }
@@ -14,7 +15,7 @@
 
    
     .about-container {
-        height: 202rem !important;
+        height: 240rem !important;
     }
 
     .about-container .about-bg-1 {
@@ -23,7 +24,7 @@
     }
     
     .about-container .about-bg-2{
-        height: 182rem !important;
+        height: 216rem !important;
     }
 
     .about-container .about-album {
@@ -88,7 +89,7 @@
     /* footer section */
 
     .footer {
-        height: 67rem;
+        height: 69rem;
     }
 
     .footer .footer-content .footer-top .footer-part-1 {

@@ -17,7 +17,7 @@
     /* about container */
 
     .about-container {
-        height: 95rem !important;
+        height: 115rem !important;
     }
 
     .about-container .about-bg-1 {
@@ -26,7 +26,7 @@
 
     .about-container .about-bg-2 {
         top: 0%;
-        height: 95rem !important;
+        height: 115rem !important;
     }
 
     .about-container .about-album .about-part {
@@ -63,6 +63,12 @@
         height: 55rem;
     }
 
+    /* footer section */
+
+    .footer {
+        height: 60rem;
+    }
+
     .footer .footer-content .footer-top .footer-part-1 {
         width: 90% !important;
         margin: auto !important;
@@ -87,5 +93,18 @@
 
     .about-main-container {
         height: 13rem;
+    }
+}
+
+@media (min-width :1200px) and (max-width : 1405px) {
+    body{
+        border: 5px solid red;
+    }
+    .about-container {
+        height: 100rem !important;
+    }
+
+    .about-container .about-bg-2 {
+        height: 89rem !important;
     }
 }
